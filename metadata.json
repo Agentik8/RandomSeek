@@ -1,0 +1,6 @@
+{
+  "name": "Случайная перемотка",
+  "description": "Аудиопроигрыватель со случайной перемоткой и прыжками по треку.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
